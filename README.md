@@ -1,7 +1,7 @@
 # Total Commander – File Manager
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/860/860/png-transparent-total-commander-android-file-manager-computer-icons-vinyl-disk-blue-angle-text.png" width="200" alt="Total Commander icon"/>
+  <img src="https://images.freeimages.com/fic/images/icons/1065/3d_cartoon/300/total_commander.png" width="200" alt="Total Commander icon"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Remote file access through FTP support enables remote file transfer uploading or
 ---
 
 <p align="center">
-  <img src="https://mac.eltima.com/wp-content/uploads/2024/01/commander_dark@2x-1024x621.jpg" alt="Total Commander screenshot"/>
+  <img src="https://mac.eltima.com/wp-content/uploads/2024/02/total-commander-1024x576.png" alt="Total Commander screenshot"/>
 </p>
 
 ---
